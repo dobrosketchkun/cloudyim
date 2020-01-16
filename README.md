@@ -14,3 +14,9 @@ In order to preserve your credentials, backup ```config.py``` (and ```roster.dat
 * actual UI (maybe in browser)
 * usable roster, not this automatic one
 * automatic history refreshing
+
+
+#### requirements
+* yadisk
+* pynacl
+* pycryptodome
